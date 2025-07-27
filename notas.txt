@@ -1,0 +1,13 @@
+virtualenv -p python3 env
+
+creamos enviroment el ambiente virtal
+
+CTRL – SHIFT – P   
+Create environment
+Venv
+o
+ py -m venv .venv
+
+corremos el servidor
+
+python -m flask run
